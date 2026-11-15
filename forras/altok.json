@@ -1,0 +1,21 @@
+{
+ "altHaz": ["A Kultúrpresszó háza a Várkerületen: krémszínű homlokzat, a földszinten a kávézó feliratával", "Das Haus des Kultúrpresszó am Várkerület: cremefarbene Fassade, im Erdgeschoss der Schriftzug des Cafés", "The Kultúrpresszó building on Várkerület: cream facade with the café sign on the ground floor"],
+ "altCapa": ["Robert Capa fekete sziluettje filmkamerával a pult mögötti falon, mellette az idézete", "Robert Capas schwarze Silhouette mit Filmkamera an der Wand hinter der Theke, daneben sein Zitat", "Robert Capa’s black silhouette with a film camera on the wall behind the bar, next to his quote"],
+ "altEspresso": ["Espresso folyik két csészébe a La Marzocco gépből", "Espresso läuft aus der La Marzocco in zwei Tassen", "Espresso pouring into two cups from the La Marzocco"],
+ "altMarzocco": ["A La Marzocco kávégép és a darálók a pulton, mögöttük a falfestmény", "Die La Marzocco Maschine und die Mühlen auf der Theke, dahinter das Wandbild", "The La Marzocco machine and grinders on the bar, the mural behind them"],
+ "altReggeli": ["Reggeli a fa asztalon: tojás, saláta, pirítós, mellette cappuccino és latte", "Frühstück auf dem Holztisch: Ei, Salat, Toast, dazu Cappuccino und Latte", "Breakfast on the wooden table: egg, salad, toast, with a cappuccino and a latte"],
+ "altSutik": ["Sütemények és kávék felülről, mellettük egy magazin", "Kuchen und Kaffee von oben, daneben eine Zeitschrift", "Cakes and coffees from above, next to a magazine"],
+ "altTerasz": ["A terasz este, asztalokkal és napernyőkkel a kivilágított homlokzat előtt", "Die Terrasse am Abend mit Tischen und Schirmen vor der beleuchteten Fassade", "The terrace in the evening, tables and umbrellas in front of the lit facade"],
+ "altBelso": ["A belső tér függőlámpákkal, a falon Robert Capa sziluettje", "Der Innenraum mit Hängelampen, an der Wand die Silhouette von Robert Capa", "The interior with pendant lamps and Robert Capa’s silhouette on the wall"],
+ "altLetra": ["Piros létra a plafonig érő könyvespolc előtt", "Rote Leiter vor dem deckenhohen Bücherregal", "A red ladder in front of the floor-to-ceiling bookshelf"],
+ "altIrogep": ["Latte egy türkiz írógépen, mögötte egy régi fekete-fehér fénykép", "Latte auf einer türkisfarbenen Schreibmaschine, dahinter ein altes Schwarzweißfoto", "A latte on a turquoise typewriter, an old black and white photo behind it"],
+ "altPolcok": ["Hosszú belső tér plafonig érő fa polcokkal és asztalokkal", "Langer Raum mit deckenhohen Holzregalen und Tischen", "A long room with floor-to-ceiling wooden shelves and tables"],
+ "altSzonyeg": ["Latte egy perzsaszőnyeg közepén, felülről", "Latte in der Mitte eines Perserteppichs, von oben", "A latte in the middle of a Persian rug, from above"],
+ "altKonyv": ["Nyitott könyv fekete-fehér fotóval és egy latte", "Aufgeschlagenes Buch mit Schwarzweißfoto und ein Latte", "An open book with a black and white photo and a latte"],
+ "altBotanik": ["A Botanik üvegépülete a botanikus kert fái között", "Das Glashaus des Botanik zwischen den Bäumen des Botanischen Gartens", "The Botanik glass building among the trees of the botanical garden"],
+ "altBotanikBelso": ["A Botanik belső tere fotelekkel és nagy üvegfalakkal", "Der Innenraum des Botanik mit Sesseln und großen Glaswänden", "The Botanik interior with armchairs and large glass walls"],
+ "altHomlokzatEjjel": ["A Kultúrpresszó ablakai éjjel, bent égnek a lámpák, a polcokon könyvek", "Die Fenster des Kultúrpresszó bei Nacht, drinnen brennen die Lampen", "Kultúrpresszó’s windows at night, the lamps on inside"],
+ "altHomlokzatFeny": ["A homlokzat felirata és fényfüzére alkonyatkor", "Schriftzug und Lichterkette der Fassade in der Dämmerung", "The facade sign and string lights at dusk"],
+ "altPult": ["A pult a falfestmény előtt, a vitrinben sütemények", "Die Theke vor dem Wandbild, in der Vitrine Kuchen", "The bar in front of the mural, cakes in the display"],
+ "altLatte": ["Két latte felülről, fa asztalon", "Zwei Latte von oben auf einem Holztisch", "Two lattes from above on a wooden table"]
+}

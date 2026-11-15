@@ -1,0 +1,44 @@
+# Decap CMS beállítás. Bekapcsolás: README "Tartalomkezelés" rész. A repo nevét a beallit.py nem írja át: kézzel állítsd!
+backend:
+  name: github
+  repo: pecsikoppany2007-sudo/kulturpresszo-sopron
+  branch: main
+  commit_messages:
+    update: "Étlap frissítése a tartalomkezelőben"
+locale: hu
+media_folder: site/img/feltoltes
+public_folder: /img/feltoltes
+collections:
+  - name: adatok
+    label: Étlap és árak
+    files:
+      - name: etlap
+        label: Étlap
+        file: site/data/menu.json
+        format: json
+        fields:
+          - name: kategoriak
+            label: Kategóriák
+            widget: list
+            fields:
+              - { name: nev, label: "Kategória neve (HU, DE, EN)", widget: list, field: { name: n, label: Név, widget: string } }
+              - name: tetelek
+                label: Tételek
+                widget: list
+                fields:
+                  - { name: nev, label: "Név (HU, DE, EN)", widget: list, field: { name: n, label: Név, widget: string } }
+                  - { name: leiras, label: "Leírás (HU, DE, EN)", widget: list, required: false, field: { name: l, label: Leírás, widget: string } }
+                  - { name: ar, label: "Ár (Ft, csak szám)", widget: string }
+      - name: programok
+        label: Programok
+        file: site/data/esemenyek.json
+        format: json
+        fields:
+          - name: esemenyek
+            label: Programok
+            widget: list
+            fields:
+              - { name: datum, label: "Dátum", widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+              - { name: ido, label: "Kezdés (ÓÓ:PP)", widget: string, required: false }
+              - { name: cim, label: "Cím (HU, DE, EN)", widget: list, field: { name: c, label: Cím, widget: string } }
+              - { name: leiras, label: "Leírás (HU, DE, EN)", widget: list, required: false, field: { name: l, label: Leírás, widget: string } }

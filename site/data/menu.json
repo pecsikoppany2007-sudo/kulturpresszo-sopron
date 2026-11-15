@@ -1,0 +1,17 @@
+{
+  "kategoriak": [
+    {
+      "nev": ["Kávé", "Kaffee", "Coffee"],
+      "tetelek": [
+        { "nev": ["Espresso", "Espresso", "Espresso"], "leiras": ["", "", ""], "ar": "700" },
+        { "nev": ["Dupla espresso", "Doppelter Espresso", "Double espresso"], "leiras": ["", "", ""], "ar": "1080" },
+        { "nev": ["Americano", "Americano", "Americano"], "leiras": ["", "", ""], "ar": "780" },
+        { "nev": ["Espresso macchiato", "Espresso macchiato", "Espresso macchiato"], "leiras": ["", "", ""], "ar": "860" },
+        { "nev": ["Piccolo latte", "Piccolo latte", "Piccolo latte"], "leiras": ["", "", ""], "ar": "890" },
+        { "nev": ["Cappuccino", "Cappuccino", "Cappuccino"], "leiras": ["", "", ""], "ar": "1080" },
+        { "nev": ["Latte", "Latte", "Latte"], "leiras": ["", "", ""], "ar": "1180" },
+        { "nev": ["Flat white", "Flat white", "Flat white"], "leiras": ["", "", ""], "ar": "1380" }
+      ]
+    }
+  ]
+}

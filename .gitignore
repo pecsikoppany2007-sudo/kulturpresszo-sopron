@@ -1,0 +1,4 @@
+node_modules
+teszt/eredmeny/
+__pycache__/
+.DS_Store
